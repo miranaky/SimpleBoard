@@ -265,4 +265,8 @@ Temporary Items
 # Environment settings
 .envs/
 
+# Vscode settings
+.vscode/
+
+htmlcov/
 # End of https://www.toptal.com/developers/gitignore/api/python,django,visualstudiocode,macos
