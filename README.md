@@ -1,11 +1,13 @@
 # SimpleBoard
 
-[x] settings
+- [x] settings
+- [x] django ci with github action
+      (.github/workflows/django.yml, requirements.txt,.isort.cfg,.pre-commit-config.yaml,setup.cfg)
 
 **users**
 
-- [ ] model
-- [ ] model test
+- [x] model
+- [x] model test
 - [ ] serializer
 - [ ] serializer test
 - [ ] FBV
