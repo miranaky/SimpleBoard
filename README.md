@@ -8,8 +8,8 @@
 
 - [x] model
 - [x] model test
-- [ ] serializer
-- [ ] serializer test
+- [x] serializer
+- [x] serializer test
 - [ ] FBV
 - [ ] API test
 - [ ] CBV
